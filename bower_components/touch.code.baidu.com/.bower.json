@@ -1,0 +1,13 @@
+{
+  "name": "touch.code.baidu.com",
+  "homepage": "https://github.com/Clouda-team/touch.code.baidu.com",
+  "_release": "c2591d0908",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "c2591d0908b05c9cacb0ce97f2593e641b6d8eb7"
+  },
+  "_source": "git://github.com/Clouda-team/touch.code.baidu.com.git",
+  "_target": "*",
+  "_originalSource": "Clouda-team/touch.code.baidu.com"
+}
